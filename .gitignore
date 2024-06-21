@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/_Input/_Fighter/IM_Player_Fighter.uasset
